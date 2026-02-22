@@ -103,4 +103,4 @@ If you use this code in academic work, please cite:
 ```
 
 ## License
-<<MIT>>
+MIT
